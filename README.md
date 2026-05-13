@@ -15,7 +15,11 @@ graph TD
 
 Mermaid มีความสามารถหลากหลายมาก โดยรองรับการสร้างแผนภูมิหลายประเภท
 1.Flowcharts
+
 2.Sequence Diagrams
+
 3.Gantt Charts
+
 4.Class Diagrams & Entity Relationship (ER)
+
 5.Mind Maps & User Journeys
